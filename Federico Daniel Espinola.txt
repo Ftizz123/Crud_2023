@@ -1,0 +1,9 @@
+Alumno: Espinola Federico Daniel 
+
+DNI:45795660
+
+1)_Mi anhelo es el día de mañana poder trabajar de esto de programación, terminar mis estudios y asegurar mi futuro y poder ayudar a mi familia en el día de mañana con la ayuda de Dios amén.❤🙏
+
+2)_Que es un CRUD: es un concepto básico en la programación web, este concepto se utiliza para describir las cuatros operaciones basicas que pueden realizarse en la mayoria de las base de datos y sistemas de gestión de información.
+
+Estas operaciones permiten a los usuarios crear nuevos datos (Create), leer los existentes (Read), actualizarlos (Update) y eliminarlos (Delete). CRUD es una función esencial para muchos sistemas de información, ya que permite a los usuarios realizar tareas básicas de mantenimiento y gestión de datos, La idea es que cualquier sistema de información que interactúe con datos debe proporcionar funcionalidades para crearlos, leerlos, actualizarlos y eliminarlos.
